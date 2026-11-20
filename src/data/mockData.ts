@@ -1,3 +1,5 @@
+import outfitsRaw from './outfitsDatabase.json';
+
 export interface Outfit {
   id: number;
   nombre: string;
@@ -8,13 +10,13 @@ export interface Outfit {
 }
 
 export interface Prenda {
-  id: number;
+  id?: number;
   nombre: string;
   actividades: Actividad[];
 }
 
 export interface Actividad {
-  id: number;
+  id?: number;
   nombre: string;
   proceso: string;
   precio: number;
@@ -51,67 +53,35 @@ export interface AtadoQR {
   partesListas: string[];
 }
 
-export const OUTFITS_MOCK: Outfit[] = [
-  {
-    id: 298,
-    nombre: "Short & Camisa Natalia Crepe",
-    fecha: "2026-11-18",
-    estado: "confirmado",
-    imagen: "/assets/1786019632_3a65bd7a377edc65.jpg",
-    prendas: [
-      {
-        id: 345,
-        nombre: "CAMISA CREPE NATALIA",
-        actividades: [
-          { id: 1, nombre: "CORTE CAMISA CON COMPLEMENTOS", proceso: "Corte", precio: 450, partePrenda: "delantero" },
-          { id: 2, nombre: "filete de camisa crepe con interlon y bordes", proceso: "Confección", precio: 600, partePrenda: "delantero" },
-          { id: 3, nombre: "ARMADA DE CUELLO CAMISERO", proceso: "Confección", precio: 800, partePrenda: "cuello" },
-          { id: 4, nombre: "POSTURA DE PUÑOS A MANGAS", proceso: "Confección", precio: 700, partePrenda: "mangas" },
-          { id: 5, nombre: "ruedo de borde inferior de camisa", proceso: "Confección", precio: 500, partePrenda: "espalda" },
-          { id: 6, nombre: "BOTON Y OJAL X6", proceso: "Terminación", precio: 350, partePrenda: "delantero" },
-        ],
-      },
-      {
-        id: 346,
-        nombre: "PANTALÓN CREPE NATALIA",
-        actividades: [
-          { id: 7, nombre: "CORTE PANTALON CON COMPLEMENTOS", proceso: "Corte", precio: 450, partePrenda: "pretina" },
-          { id: 8, nombre: "filete de pantalón crepe con pretina", proceso: "Confección", precio: 650, partePrenda: "pretina" },
-          { id: 9, nombre: "union borde de bolsillo y fijado", proceso: "Confección", precio: 550, partePrenda: "delantero" },
-          { id: 10, nombre: "ENCAUCHADO DE PRETINA CON 3 LINEAS", proceso: "Confección", precio: 900, partePrenda: "pretina" },
-          { id: 11, nombre: "RUEDO DE BOTA DE PANTALON", proceso: "Terminación", precio: 400, partePrenda: "bota" },
-        ],
-      },
-    ],
-  },
-  {
-    id: 297,
-    nombre: "Lupe 14 nov — Crepe Cuello V",
-    fecha: "2026-11-14",
-    estado: "confirmado",
-    imagen: "/assets/1786019632_3a65bd7a377edc65.jpg",
-    prendas: [
-      {
-        id: 344,
-        nombre: "LUPE CREPE CUELLO V",
-        actividades: [
-          { id: 12, nombre: "Filete de hombros y sesgo cuello V", proceso: "Confección", precio: 550, partePrenda: "cuello" },
-          { id: 13, nombre: "Cierre de laterales y mangas", proceso: "Confección", precio: 750, partePrenda: "mangas" },
-          { id: 14, nombre: "Dobladillo bota y planchado", proceso: "Terminación", precio: 400, partePrenda: "bota" },
-        ],
-      },
-    ],
-  },
-];
+// Convertimos la base de datos scrapeada de ABBI
+export const OUTFITS_MOCK: Outfit[] = (outfitsRaw as any[])
+  .filter((o) => o.nombre && o.nombre !== "Outfit 1")
+  .map((o, idx) => ({
+    id: o.id || idx + 1,
+    nombre: o.nombre,
+    fecha: o.fecha || "2026-11-15",
+    estado: (o.estado === "borrador" || o.estado === "confirmado" || o.estado === "cerrado") ? o.estado : "confirmado",
+    imagen: o.imagen || "/assets/1786019632_3a65bd7a377edc65.jpg",
+    prendas: (o.prendas || []).map((p: any, pIdx: number) => ({
+      id: pIdx + 1,
+      nombre: p.nombre,
+      actividades: (p.actividades || []).map((a: any, aIdx: number) => ({
+        id: aIdx + 1,
+        nombre: a.nombre,
+        proceso: a.proceso || "Confección",
+        precio: a.precio || 650,
+      })),
+    })),
+  }));
 
 export const CORTES_MOCK: Corte[] = [
   {
     id: 160,
-    outfitNombre: "Short & Camisa Natalia Crepe",
-    prendaNombre: "CAMISA CREPE NATALIA",
-    nombreCorte: "CORTE NATALIA LOTE 01",
+    outfitNombre: "Lupe 14 nov",
+    prendaNombre: "LUPE CREPE CUELLO V",
+    nombreCorte: "CORTE LUPE CREPE LOTE 01",
     tipoTela: "CREPE ALGODÓN",
-    fecha: "2026-11-18",
+    fecha: "2026-11-17",
     estado: "confirmado",
     capas: 25,
     undTotal: 150,
@@ -125,7 +95,7 @@ export const CORTES_MOCK: Corte[] = [
             und: 25,
             atados: [
               {
-                codigoQR: "NAT-CAM-S-MOKA-01",
+                codigoQR: "LUP-CAM-S-MOKA-01",
                 color: "CAFÉ MOKA",
                 talla: "S",
                 unidades: 25,
@@ -141,7 +111,7 @@ export const CORTES_MOCK: Corte[] = [
             und: 25,
             atados: [
               {
-                codigoQR: "NAT-CAM-M-MOKA-02",
+                codigoQR: "LUP-CAM-M-MOKA-02",
                 color: "CAFÉ MOKA",
                 talla: "M",
                 unidades: 25,
@@ -157,7 +127,7 @@ export const CORTES_MOCK: Corte[] = [
             und: 25,
             atados: [
               {
-                codigoQR: "NAT-CAM-L-MOKA-03",
+                codigoQR: "LUP-CAM-L-MOKA-03",
                 color: "CAFÉ MOKA",
                 talla: "L",
                 unidades: 25,
@@ -179,7 +149,7 @@ export const CORTES_MOCK: Corte[] = [
             und: 25,
             atados: [
               {
-                codigoQR: "NAT-CAM-S-MARFIL-04",
+                codigoQR: "LUP-CAM-S-MARFIL-04",
                 color: "MARFIL",
                 talla: "S",
                 unidades: 25,
@@ -195,7 +165,7 @@ export const CORTES_MOCK: Corte[] = [
             und: 50,
             atados: [
               {
-                codigoQR: "NAT-CAM-M-MARFIL-05",
+                codigoQR: "LUP-CAM-M-MARFIL-05",
                 color: "MARFIL",
                 talla: "M",
                 unidades: 50,

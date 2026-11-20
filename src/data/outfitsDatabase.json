@@ -1,0 +1,3441 @@
+[
+  {
+    "id": 300,
+    "nombre": "Outfit 1",
+    "fecha": "2026-11-15",
+    "estado": "confirmado",
+    "imagen": "/assets/1786019632_3a65bd7a377edc65.jpg",
+    "prendas": []
+  },
+  {
+    "id": 299,
+    "nombre": "Lupe 14 nov",
+    "fecha": "2026-11-17",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1795130441_873227cc73923d97.png",
+    "prendas": [
+      {
+        "nombre": "LUPE CREPE CUELLO V",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CAUCHO DE CAMISA INFERIOR",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "filete de camisa sin cuello y sin mangas, con borde de falso",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CREPE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "montar sesgo a pretina",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE FALSOS MANGA CON BORDE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "falso de cuello lupe con fijado ext",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "fijado int cuello v crepe",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE FALSO MANGA CON PISE INT",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRO X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTTURA DE CUELLO A CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "POSTURA DE BALIN N 10",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "nombre": "Olivia bengalina 12 nov",
+    "fecha": "2026-11-17",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794948188_68fb7f360f816037.jpg",
+    "prendas": [
+      {
+        "nombre": "Olivia bengalina",
+        "actividades": [
+          {
+            "nombre": "CORTE CHALECO",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PRETINA COMBINADA CON DOBLE DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE CURVAS DELANTERAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE SIZA Y CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RIBETE CAMISA X2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RIBETE DE PANTALON X2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de trasero",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "despeluce pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision chaleco",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "nombre": "MEILIN 10 NOV",
+    "fecha": "2026-11-13",
+    "estado": "en producción",
+    "imagen": "/uploads/outfits/1794590337_693d8177a504f39e.jpg",
+    "prendas": [
+      {
+        "nombre": "MEILIN",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CAUCHO DE CAMISA INFERIOR",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE CUELLO CHAQUETA FIJADO DE TAPA ABIERTA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CIERRE CHAQUETA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE NUDOS CHINOS X5",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO pant o jogger X3",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO X 3 MANGA EN CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO SOLO DE MANGA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DTF",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "perfil pantalones",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PLANCHADO DTF PANT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "nombre": "IVANA 11 NOVIEMBRE",
+    "fecha": "2026-11-13",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794589897_c09ec2f8ddb0b629.png",
+    "prendas": [
+      {
+        "nombre": "IVANA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "filete de camisa crepe con interlon y bordes",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CREPE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CUELLO CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE FRENTE DE INTERLON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRO X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de vena de pantalon crepe",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de borde inferior de camisa",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "boton x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "despeluce de camisa de botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcar boton y hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "perfil pantalones",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE BALIN N 10",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "revision camisa botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "nombre": "MAYA PLUS 9 NOVIEMBRE",
+    "fecha": "2026-11-13",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794589111_c273dd149da50552.png",
+    "prendas": [
+      {
+        "nombre": "Enterizo  cierre",
+        "actividades": [
+          {
+            "nombre": "CORTE ENTERIZO CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE ENTERIZO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO RECTANGULAR ENETRIZO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE ARGOLLAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CIERRE A ENTERIZO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO ENTERIZO CIERRE",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGADO COMPLETO PARA REDUCTORES",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DESPELUCE ENTERIZO MAYA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "POSTURA DE ARGOLLA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION ENTERIZO",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "nombre": "MAYA 9 NOVIEMBRE",
+    "fecha": "2026-11-13",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794588975_15ba50387d2b9ab6.jpg",
+    "prendas": [
+      {
+        "nombre": "Enterizo  cierre",
+        "actividades": [
+          {
+            "nombre": "CORTE ENTERIZO CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE ENTERIZO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO RECTANGULAR ENETRIZO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE ARGOLLAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CIERRE A ENTERIZO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO ENTERIZO CIERRE",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGADO COMPLETO PARA REDUCTORES",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DESPELUCE ENTERIZO MAYA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "POSTURA DE ARGOLLA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION ENTERIZO",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "nombre": "napoleon 6 nov",
+    "fecha": "2026-11-07",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794070182_d9fb4ce40b4b9ec5.jpg",
+    "prendas": [
+      {
+        "nombre": "napoleon bengalina",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CHALECO CON UNION DELANTERO Y BORDES (SIZA, INF, FRONTAL)",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PRETINA COMBINADA CON DOBLE DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "CUELLO MAO ARMADO Y POSTURA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN TRASERO PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FLECHAS X 8 CON MARCADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PASADORES X5",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE CURVAS DELANTERAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CIERRE CHAQUETA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de borde inferior de camisa",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO DE SIZA BENGALINA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BROCHES X8 UN SOLO LADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "CORTE DE PASADORES X5",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE PANTALON CON PERFIL DE PASADORES",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "revision pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "nombre": "ALLEGRA 5 NOVIEMBRE",
+    "fecha": "2026-11-07",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794068865_561f520858562088.png",
+    "prendas": [
+      {
+        "nombre": "ALLEGRA ADIDAS",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PUÑOS A MANGAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CUADRADO con fijado",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PERILLAS CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "tapa costura cuello",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO pant o jogger X3",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO X 3 MANGA EN CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "perfil pantalones",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PLANCHADO DTF",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PLANCHADO DTF PANT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "nombre": "ADHELA 4 NOVIEMBRE",
+    "fecha": "2026-11-06",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794003422_3e822c0403feee62.png",
+    "prendas": [
+      {
+        "nombre": "ADHELA CREPE",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CAUCHO DE CAMISA INFERIOR",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "filete de camisa crepe con bordes del delantero-interlon",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "filete de pantalon crepe con bordes del delantero",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CUELLO CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "postura de pretina combinada",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN CAMISA X2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE FRENTE DE INTERLON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "fijado de caucho en plana",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FIJADO INFERIOR DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PASADORES X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "Pide de dos tiras a pretina",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRO X 1",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de vena de pantalon crepe",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "solo pise de frente union frontal camisa",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "solo pise de union frontal de pantalon",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "boton x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "despeluce de camisa de botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE PANTALON CON PERFIL DE PASADORES",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcar boton y hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "POSTURA DE BALIN N 10",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "revision camisa botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "nombre": "ana 3 noviembre",
+    "fecha": "2026-11-06",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1794003288_dffd7b69fc47098d.jpg",
+    "prendas": [
+      {
+        "nombre": "CAMISA ANA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA RANGLAN SIN CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE MANGA INTERNA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTTURA DE CUELLO A CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CIERRE CAMISA CAJON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO MANGA  RANGLAN O BASE SOLA X3",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE CAMISA INFERIOR Y MANGA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      },
+      {
+        "nombre": "PANTALON ANA",
+        "actividades": [
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CUADRADO con fijado",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO LINEA X 1 PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "perfil pantalones",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "nombre": "SHORT ADIDAS VALERY TALLA PLUS",
+    "fecha": "2026-10-30",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1793390403_f2feb28b5d9e81d5.jpg",
+    "prendas": [
+      {
+        "nombre": "short adidas",
+        "actividades": [
+          {
+            "nombre": "CORTE SHORT CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE SHORT",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE VENA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO SHORT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PLANCHADO DTF PANT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      },
+      {
+        "nombre": "CAMISA BASICA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE CAMISA INFERIOR Y MANGA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DTF",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PLANCHADO DTF",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "EMPAQUE",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "nombre": "PENELOPE 30 OCTUBRE",
+    "fecha": "2026-10-30",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1793388565_15df66e718ee7f01.png",
+    "prendas": [
+      {
+        "nombre": "PENELOPE",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "filete de camisa crepe con bordes y canesu",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "filete de pantalón crepe con pretina combinada",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CUELLO CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PRETINA COMBINADA CON DOBLE DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN CAMISA X1",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de borde de aletas traseras con fijado",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de borde de canesu",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de delantero con botonadura escondida",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PISE DE TIRO X 1",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pliegues delanteros de pantalón",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de borde inferior de camisa",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO DE MANGA CREPE",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "boton x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "despeluce de camisa de botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "despeluce pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcar boton y hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision camisa botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "nombre": "SHORT ADIDAS VALERY TALLA UNICA",
+    "fecha": "2026-10-30",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1793388494_0b885b702fbe0a99.jpg",
+    "prendas": [
+      {
+        "nombre": "SHORT ADIDAS",
+        "actividades": [
+          {
+            "nombre": "CORTE SHORT CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE SHORT",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE VENA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO SHORT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PLANCHADO DTF PANT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      },
+      {
+        "nombre": "CAMISA BASICA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE CAMISA INFERIOR Y MANGA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DTF",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PLANCHADO DTF",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "EMPAQUE",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "nombre": "NOHELIA 28 OCTUBRE",
+    "fecha": "2026-10-30",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1793388409_3dc55de5d484d95d.png",
+    "prendas": [
+      {
+        "nombre": "NOELIA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON PECHERA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON BOLSILLO EMBONADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PUÑOS A MANGAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "cierre embonado en pechera",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "EMBONADO DE CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PECHERA FRONTAL",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE VENA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PECHERA A DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "nombre": "ADIDAS VALENTINA 26 OCTUBRE",
+    "fecha": "2026-10-30",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1793388315_64e0a493563a530f.png",
+    "prendas": [
+      {
+        "nombre": "CAMISA BASICA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE CAMISA INFERIOR Y MANGA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DTF",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PLANCHADO DTF",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      },
+      {
+        "nombre": "PANTALON ADIDAS VALENTINA",
+        "actividades": [
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CUADRADO con fijado",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE VENA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO pant o jogger X3",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PLANCHADO DTF PANT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "nombre": "IVANNA CREPE 26 OCT",
+    "fecha": "2026-10-30",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1793388250_45593a4abf9a8689.png",
+    "prendas": [
+      {
+        "nombre": "IVANA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "filete de camisa crepe con interlon y bordes",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CREPE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE CUELLO CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE FRENTE DE INTERLON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRO X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de vena de pantalon crepe",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de borde inferior de camisa",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "boton x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "despeluce de camisa de botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcar boton y hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "POSTURA DE BALIN N 10",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "revision camisa botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "nombre": "lupe 22 oct",
+    "fecha": "2026-10-24",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792848277_dcffdd74e207997d.png",
+    "prendas": [
+      {
+        "nombre": "LUPE CREPE CUELLO V",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CAUCHO DE CAMISA INFERIOR",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "filete de camisa sin cuello y sin mangas, con borde de falso",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CREPE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "montar sesgo a pretina",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE FALSOS MANGA CON BORDE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "falso de cuello lupe con fijado ext",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "fijado int cuello v crepe",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE FALSO MANGA CON PISE INT",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRA A PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRO X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTTURA DE CUELLO A CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "POSTURA DE BALIN N 10",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "nombre": "melina plus 21 oct",
+    "fecha": "2026-10-24",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792848228_c645e19c7d2bca6c.jpg",
+    "prendas": [
+      {
+        "nombre": "MELINA PLUS",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PANTALON ABIERTO A LOS COSTADOS CON TIRA BLANCA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PUÑOS A MANGAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "atraque de punta de ruedo",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN CAMISA X1",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE TRASERO X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "UNION DE COSTADOS PANTALON ABIERTO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "ABERTURA DE HUECOS PARA BROCHES",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "postura broches x 6",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "nombre": "belinda unica 20 oct",
+    "fecha": "2026-10-24",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792848177_58c32015025a7a76.jpg",
+    "prendas": [
+      {
+        "nombre": "BELINDA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA SIN CUELLO CON BORDE DELANTERO FILETEADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PRETINA COMBINADA CON DOBLE DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO CON MAO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN CAMISA X2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN TRASERO PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PASADORES X5",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de delantero con botonadura escondida",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PISE DE MANGA X 4",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTTURA DE CUELLO A CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de borde inferior de camisa",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "boton x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE PASADORES X5",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "despeluce de camisa de botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE PANTALON CON PERFIL DE PASADORES",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcar boton y hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision camisa botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "nombre": "ALLEGRA ADIDAS 19 OCT",
+    "fecha": "2026-10-21",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792612900_0166b22c0bf0d9be.jpg",
+    "prendas": [
+      {
+        "nombre": "ALLEGRA ADIDAS",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA CON CUELLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PUÑOS A MANGAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CUADRADO con fijado",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PERILLAS CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "tapa costura cuello",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO pant o jogger X3",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "SESGO X 3 MANGA EN CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PLANCHADO DTF",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PLANCHADO DTF PANT",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "nombre": "LUNA 17 OCT",
+    "fecha": "2026-10-17",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792252548_cafd5e51bd146dec.png",
+    "prendas": [
+      {
+        "nombre": "LUNA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "filete de camisa, con cuello y sin manga, solo con puños",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON SESGO A COSTADOS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTURA DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN TRASERO PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE PUNTA DE CORDON X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "RUEDO INFERIOR DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "METIDA DE CORDON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "perfil pantalones",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PLANCHADO DTF LUNARES",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "TACHE",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REVISION DE PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "nombre": "JUANA BENGALINA 16 OCT",
+    "fecha": "2026-10-16",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792174429_fef610bae91169f9.png",
+    "prendas": [
+      {
+        "nombre": "JUANA",
+        "actividades": [
+          {
+            "nombre": "chaleco completo con cuello",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "CORTE CHALECO",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PRETINA COMBINADA CON DOBLE DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "cierre embonado chaleco",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "fijado de cuello a chaleco",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE CURVAS DELANTERAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE MANGA INTERNA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de trasero",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE DE CAMISA",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "despeluce pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision chaleco",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "revision pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "nombre": "BELINDA PLUS 15 OCT",
+    "fecha": "2026-10-16",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792174362_2fa46815df685e05.png",
+    "prendas": [
+      {
+        "nombre": "BELINDA",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "FILETE DE CAMISA SIN CUELLO CON BORDE DELANTERO FILETEADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "FILETE DE PANTALON CON POSTURA DE BOLSILLO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PRETINA COMBINADA CON DOBLE DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO CON MAO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN CAMISA X2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN TRASERO PANTALON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PASADORES X5",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE CUELLO COMPLETO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de delantero con botonadura escondida",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "PISE DE MANGA X 4",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTTURA DE CUELLO A CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ruedo de borde inferior de camisa",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "boton x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE PASADORES X5",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "despeluce de camisa de botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE PANTALON CON PERFIL DE PASADORES",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcar boton y hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision camisa botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "nombre": "ADHELA CREPE 13 OCT",
+    "fecha": "2026-10-16",
+    "estado": "borrador",
+    "imagen": "/uploads/outfits/1792174305_29bba4b4878d7529.jpg",
+    "prendas": [
+      {
+        "nombre": "ADHELA CREPE",
+        "actividades": [
+          {
+            "nombre": "CORTE CAMISA CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CORTE PANTALON CON COMPLEMENTOS",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "CAUCHO DE CAMISA INFERIOR",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "filete de camisa crepe con bordes del delantero-interlon",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pantalon crepe con bordes del delantero y pret combinada",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "postura de pretina combinada",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ARMADA DE CUELLO  CAMISERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "BOLSILLO CON FIJADO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE BOLSILLO Y POSTURA EN CAMISA X2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "DOBLEZ DE FRENTE DE INTERLON",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "fijado de caucho en plana",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "J CON CIERRE Y FIJADO DELANTERO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PASADORES X 2",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "Pide de dos tiras a pretina",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE BORDE DE MANGA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "PISE DE TIRO X 1",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "pise de vena de pantalon crepe",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "POSTTURA DE CUELLO A CAMISA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "REMATE EN PUNTAS DE PRETINA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "solo pise de frente union frontal camisa",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "solo pise de union frontal de pantalon",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "UNION DE SESGO",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ENCAUCHADO DE PRETINA CON 3 LINEAS",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "RUEDO DE BOTA DE PANTALON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "SESGO TIRA",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "ABROCHAR BOTONERA X6 X3",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "BOTON",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "boton x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "CORTE DE CORDON X1 X2",
+            "proceso": "Corte",
+            "precio": 500
+          },
+          {
+            "nombre": "despeluce de camisa de botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "DESPELUCE PANTALON CON PERFIL DE PASADORES",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "HOJAL",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcado de botón y hojal x1",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "marcar boton y hojal x6",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "perfil pantalones",
+            "proceso": "Confección",
+            "precio": 650
+          },
+          {
+            "nombre": "revision camisa botones",
+            "proceso": "Terminación",
+            "precio": 800
+          },
+          {
+            "nombre": "revision pantalon cierre y boton",
+            "proceso": "Terminación",
+            "precio": 800
+          }
+        ]
+      }
+    ]
+  }
+]
