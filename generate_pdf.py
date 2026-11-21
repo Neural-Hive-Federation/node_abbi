@@ -225,7 +225,7 @@ elements.append(Spacer(1, 10))
 conclusion_data = [
     [
         Paragraph(
-            "<b>Conclusión para la Gerencia (Andrés & Leidy):</b> Esta evolución no reemplaza la identidad de ABBI ni exige cambios traumáticos en planta. Se trata de una <b>actualización inteligente</b> que conecta la mesa de corte con los 4 equipos de costura (fileteadora + plana) y las máquinas compartidas (collarinera y multiaguja), asegurando que cada metro de tela se traduzca en utilidad líquida y control en tiempo real desde el celular.",
+            "<b>Conclusión para la Gerencia (Andrés & Leidy):</b> Esta evolución no reemplaza la identidad de ABBI ni exige cambios traumáticos en planta. Se trata de una <b>actualización inteligente</b> que conecta la mesa de corte con los equipos de costura (fileteadora + plana, en planta o satélites sin límite de personal) y las máquinas compartidas (collarinera y multiaguja), asegurando que cada metro de tela se traduzca en utilidad líquida y control en tiempo real desde el celular.",
             ParagraphStyle("Concl", parent=styles["Normal"], fontSize=7.5, leading=10.5, textColor=COLOR_DARK)
         )
     ]
