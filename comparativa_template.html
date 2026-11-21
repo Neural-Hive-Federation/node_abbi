@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Comparativa Ejecutiva: ABBI Tradicional vs. ABBI 2.0 CoreTextil</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    @page {
+      size: A4 portrait;
+      margin: 12mm 15mm 12mm 15mm;
+    }
+    :root {
+      --abbie-pink: #f78bc9;
+      --abbie-red: #c0192e;
+      --abbie-text: #1e293b;
+      --abbie-muted: #64748b;
+      --core-purple: #7c3aed;
+      --core-green: #10b981;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Poppins', sans-serif;
+      color: var(--abbie-text);
+      background: #ffffff;
+      font-size: 9.5pt;
+      line-height: 1.35;
+    }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid #f1f5f9;
+      padding-bottom: 12px;
+      margin-bottom: 14px;
+    }
+    .brand-box {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .brand-name {
+      font-size: 20pt;
+      font-weight: 800;
+      color: var(--abbie-red);
+      letter-spacing: -0.5px;
+    }
+    .badge-core {
+      background: linear-gradient(135deg, #7c3aed, #c0192e);
+      color: #fff;
+      font-size: 7.5pt;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .meta-box {
+      text-align: right;
+      font-size: 8pt;
+      color: var(--abbie-muted);
+    }
+    .meta-box strong {
+      color: var(--abbie-text);
+    }
+    .hero-title {
+      font-size: 13.5pt;
+      font-weight: 700;
+      color: #0f172a;
+      margin-bottom: 3px;
+    }
+    .hero-subtitle {
+      font-size: 8.5pt;
+      color: var(--abbie-muted);
+      margin-bottom: 12px;
+    }
+
+    /* TARJETA COMPARATIVA */
+    table.comp-table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 14px;
+    }
+    table.comp-table thead th {
+      background: #f8fafc;
+      color: #334155;
+      font-weight: 700;
+      font-size: 8pt;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+      padding: 8px 10px;
+      border-bottom: 2px solid #cbd5e1;
+    }
+    table.comp-table tbody td {
+      padding: 7px 10px;
+      border-bottom: 1px solid #f1f5f9;
+      vertical-align: middle;
+      font-size: 8pt;
+    }
+    table.comp-table tbody tr:last-child td {
+      border-bottom: none;
+    }
+    table.comp-table tbody tr:nth-child(even) {
+      background-color: #fafbfc;
+    }
+
+    .col-var {
+      font-weight: 600;
+      color: #0f172a;
+      width: 22%;
+    }
+    .col-antes {
+      color: #dc2626;
+      background: #fef2f2;
+      width: 26%;
+    }
+    .col-despues {
+      color: #15803d;
+      background: #f0fdf4;
+      font-weight: 600;
+      width: 26%;
+    }
+    .col-beneficio {
+      color: #7c3aed;
+      font-weight: 600;
+      width: 26%;
+    }
+
+    /* SECCIÓN DE IMPACTO Y ROI */
+    .roi-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .roi-card {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 10px;
+      background: #ffffff;
+      border-top: 4px solid var(--abbie-red);
+    }
+    .roi-card.purple {
+      border-top-color: var(--core-purple);
+    }
+    .roi-card.green {
+      border-top-color: var(--core-green);
+    }
+    .roi-card h4 {
+      font-size: 8pt;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--abbie-muted);
+      margin-bottom: 4px;
+    }
+    .roi-card .roi-value {
+      font-size: 13pt;
+      font-weight: 800;
+      color: #0f172a;
+      margin-bottom: 3px;
+    }
+    .roi-card p {
+      font-size: 7.5pt;
+      color: var(--abbie-muted);
+      line-height: 1.25;
+    }
+
+    /* FOOTER */
+    .footer {
+      border-top: 1px solid #e2e8f0;
+      padding-top: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 7.5pt;
+      color: var(--abbie-muted);
+    }
+    .footer strong {
+      color: var(--abbie-red);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="brand-box">
+      <div class="brand-name">ABBIE</div>
+      <div class="badge-core">Evolución 2.0 CoreTextil</div>
+    </div>
+    <div class="meta-box">
+      <div>Preparado para: <strong>Andrés & Leidy (Gerencia y Taller)</strong></div>
+      <div>Plataforma Online: <strong>https://node-abbi.vercel.app</strong></div>
+      <div>Fecha de Emisión: <strong>Noviembre 2026</strong></div>
+    </div>
+  </div>
+
+  <!-- TÍTULO -->
+  <div class="hero-title">Matriz Comparativa de Transformación Operativa & Financiera</div>
+  <div class="hero-subtitle">
+    Auditoría técnica del sistema actual de confección frente a la implementación de trazabilidad por Atados QR, Visor 2D y Control Anti-Fraude.
+  </div>
+
+  <!-- TABLA COMPARATIVA -->
+  <table class="comp-table">
+    <thead>
+      <tr>
+        <th class="col-var">Variable Operativa</th>
+        <th>Cómo Opera ABBI Hoy</th>
+        <th>Con la Evolución CoreTextil</th>
+        <th>Beneficio & Retorno Inmediato</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="col-var">Registro de labor por operario</td>
+        <td class="col-antes">2 a 3 min buscando en lista manual de 300 ítems</td>
+        <td class="col-despues">1 segundo con escáner de código QR</td>
+        <td class="col-beneficio">Ahorro de ~2 horas de operario al día en planta.</td>
+      </tr>
+      <tr>
+        <td class="col-var">Trazabilidad por Color y Atado</td>
+        <td class="col-antes">Ciega; columna "Responsable" vacía (—) en el corte</td>
+        <td class="col-despues">Matriz en vivo por cuadrilla (Filete/Plana/Equipo)</td>
+        <td class="col-beneficio">Eliminación del 100% de atados refundidos o cruzados.</td>
+      </tr>
+      <tr>
+        <td class="col-var">Control de Tallas y Modelos</td>
+        <td class="col-antes">No existe registro de tallas en producción</td>
+        <td class="col-despues">Identificación unívoca (REF-COLOR-TALLA-NN)</td>
+        <td class="col-beneficio">Inventario exacto por modelo y balance de ensamble.</td>
+      </tr>
+      <tr>
+        <td class="col-var">Monitoreo de Estado de Ensamble</td>
+        <td class="col-antes">Ninguno; requiere llamadas o bajar al taller</td>
+        <td class="col-despues">Visor 2D Dinámico (Verde / Amarillo / Gris)</td>
+        <td class="col-beneficio">La gerencia visualiza el avance real desde el móvil.</td>
+      </tr>
+      <tr>
+        <td class="col-var">Despiece de Nuevos Diseños</td>
+        <td class="col-antes">Manual, digitando 40 operaciones una a una</td>
+        <td class="col-despues">Vision Engine V2 (IA Multimodal) en 3 segundos</td>
+        <td class="col-beneficio">Fichas técnicas y rutas SAM generadas al subir la foto.</td>
+      </tr>
+      <tr>
+        <td class="col-var">Riesgo de Cobro de Piezas Fantasma</td>
+        <td class="col-antes">Alto (reportes en planillas sin topes de corte)</td>
+        <td class="col-despues">Bloqueo matemático estricto en base de datos</td>
+        <td class="col-beneficio">Ahorro directo de $1.5M a $3M COP mensuales.</td>
+      </tr>
+      <tr>
+        <td class="col-var">Liquidación de Nómina Destajo</td>
+        <td class="col-antes">Revisión manual de cuadernos al fin de semana</td>
+        <td class="col-despues">Liquidación a 1 clic con comprobante digital</td>
+        <td class="col-beneficio">Cero disputas de pago; exactitud al centavo.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- SECCIÓN ROI -->
+  <div class="roi-grid">
+    <div class="roi-card">
+      <h4>Ahorro en Destajo Inflado</h4>
+      <div class="roi-value">$1.5M – $3.0M</div>
+      <p>Ahorro mensual directo al bloquear matemáticamente el reporte de piezas no cortadas.</p>
+    </div>
+    <div class="roi-card purple">
+      <h4>Tiempo Ganado en Cuadrilla</h4>
+      <div class="roi-value">+12 Horas/Sem</div>
+      <p>Tiempo productivo recuperado al eliminar la búsqueda manual en listas de 300 referencias.</p>
+    </div>
+    <div class="roi-card green">
+      <h4>Retorno de Inversión (ROI)</h4>
+      <div class="roi-value">&lt; 30 Días</div>
+      <p>El sistema se paga completamente solo desde el primer corte con las fugas de dinero eliminadas.</p>
+    </div>
+  </div>
+
+  <!-- SÍNTESIS DE VALOR -->
+  <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 10px 14px; margin-bottom: 12px; font-size: 8pt;">
+    <strong style="color: #0f172a;">Conclusión para la Gerencia:</strong>
+    Esta evolución no reemplaza la identidad de ABBI ni exige cambios traumáticos en la planta. Se trata de una <strong>actualización inteligente</strong> que conecta su mesa de corte con los 4 equipos de costura y máquinas compartidas (collarinera y multiaguja), asegurando que cada metro de tela cortado se traduzca en utilidad líquida y control en tiempo real.
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div>
+      Desarrollado para <strong>ABBI Confección</strong> | Nodo ABBI Federado
+    </div>
+    <div>
+      Tecnología: <strong>CoreTextil SaaS v2.5</strong> × Ecosistema Neural Nexus
+    </div>
+  </div>
+
+</body>
+</html>

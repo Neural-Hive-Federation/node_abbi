@@ -89,6 +89,20 @@ export const Navbar: React.FC<Props> = ({ activeTab, setActiveTab, onOpenQR }) =
                 <span>Escanear Atado</span>
               </button>
             </li>
+
+            <li className="nav-item ms-1">
+              <a
+                href="/COMPARATIVA_ABBIE_CORETEXTIL.pdf"
+                target="_blank"
+                rel="noreferrer"
+                download="COMPARATIVA_ABBIE_CORETEXTIL.pdf"
+                className="btn btn-outline-danger btn-sm d-flex align-items-center gap-1"
+                title="Descargar Informe Ejecutivo en PDF"
+              >
+                <i className="fas fa-file-pdf"></i>
+                <span>PDF Comparativo</span>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
